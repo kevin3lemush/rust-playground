@@ -10,3 +10,7 @@ Personal development log — notes, findings, and ongoing work.
 - Drafted initial implementation plan for v2
 - Cleaned up old debug logs
 - Reviewed codebase, identified areas for improvement
+
+## 2026-04-15
+- Added basic retry logic for network requests
+- Pinned dependency versions for reproducibility
